@@ -10,6 +10,10 @@ package ninja.madscientist.jgglb;
  * @author masterninja
  */
 
+// Using this to expirement with list
+// most of this came from https://www.javatpoint.com/java-list
+// So far.
+
 import java.util.*;
 
 public class GopherItemParser {
